@@ -1,0 +1,7 @@
+services:
+  web:
+    image: vheikkiniemi/cybersec-web-phase0:v1.0
+    container_name: cybersec-web-phase0
+    restart: always
+    ports:
+      - "8000:8000"
