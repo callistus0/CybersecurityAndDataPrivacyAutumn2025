@@ -1,7 +1,7 @@
 # 🧪 Test Report — Phase 1 / Part 2  
 **Booking System – Updated Version**
 
-**Tester(s):**   
+**Tester:**   
 - Abara Callistus
 
 ---
