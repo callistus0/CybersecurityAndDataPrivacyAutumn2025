@@ -1,8 +1,9 @@
 # 🧪 Test Report — Phase 1 / Part 2  
 **Booking System – Updated Version**
 
-**Tester:**   
+**Testers:**   
 - Abara Callistus
+- Onyeisi Joseph Chidebere
 
 ---
 
