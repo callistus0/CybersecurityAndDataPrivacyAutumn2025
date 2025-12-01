@@ -7,6 +7,8 @@
 | 18.11.2025 | 3          | PortSwigger: SQL Injection labs                         | Completed 2 SQLi labs + reflections written             |
 | 18.11.2025 | 3          | PortSwigger: Authentication labs                        | Completed username enumeration + password reset labs     |
 | 18.11.2025 | 2          | PortSwigger: Access Control labs                        | Completed 2 access-control labs + reflections written    |
-| 28.11.2025 | 8          | Booting System task phase 1   | Completed phase 1 task and used docker and zap for this task    |
+| 28.11.2025 | 8          | Booting System task phase 1   | Completed phase 1 part 1 task and used docker and zap for this task    |
+| 01.12.2025 | 6          | Booting System task phase 1   | Completed phase 1 part 2 task and used docker and zap for this task    |
+
 
 
